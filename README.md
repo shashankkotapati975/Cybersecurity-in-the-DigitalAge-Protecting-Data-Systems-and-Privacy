@@ -1,0 +1,2 @@
+# Cybersecurity-in-the-Digital-Age-Protecting-Data-Systems-and-Privacy
+Cybersecurity is the practice of protecting computer systems, networks, applications, and data from unauthorized access, attacks, and damage. As businesses, governments, and individuals increasingly depend on digital technologies, cybersecurity is essential to ensure the confidentiality, integrity, and availability of information.  
